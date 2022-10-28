@@ -18,7 +18,7 @@ Burrow é um companheiro de monitoramento do [Apache Kafka](http://kafka.apache.
 * Email configurável para envio de alertas para grupos específicos;
 * Cliente HTTP configurável para envio de alertas para outro sistema para todos os grupos.
 
-## Getting Started
+## Começando
 ### Prerequisites
 Burrow is written in Go, so before you get started, you should [install and set up Go](https://golang.org/doc/install). As the dependencies
 are managed using Go module, the lowest version of Go supported is 1.11, though we recommend using version 1.12 for development.
