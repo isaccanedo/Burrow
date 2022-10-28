@@ -13,7 +13,7 @@ Burrow é um companheiro de monitoramento do [Apache Kafka](http://kafka.apache.
 * Suporte a vários clusters Kafka;
 * Monitora automaticamente todos os consumidores usando compensações comprometidas com Kafka;
 * Suporte configurável para deslocamentos confirmados pelo Zookeeper;
-* Configurable support for Storm-committed offsets
+* Suporte configurável para deslocamentos confirmados pelo Storm;
 * HTTP endpoint for consumer group status, as well as broker and consumer information
 * Configurable emailer for sending alerts for specific groups
 * Configurable HTTP client for sending alerts to another system for all groups
