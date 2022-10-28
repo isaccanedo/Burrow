@@ -6,7 +6,7 @@
 
 # Burrow - Verificação de atraso do consumidor Kafka
 
-Burrow é um companheiro de monitoramento do [Apache Kafka](http://kafka.apache.org) que fornece verificação de atraso do consumidor como um serviço sem a necessidade de especificar limites. It monitors committed offsets for all consumers and calculates the status of those consumers on demand. An HTTP endpoint is provided to request status on demand, as well as provide other Kafka cluster information. There are also configurable notifiers that can send status out via email or HTTP calls to another service.
+Burrow é um companheiro de monitoramento do [Apache Kafka](http://kafka.apache.org) que fornece verificação de atraso do consumidor como um serviço sem a necessidade de especificar limites. Ele monitora as compensações comprometidas para todos os consumidores e calcula o status desses consumidores sob demanda. Um endpoint HTTP é fornecido para solicitar o status sob demanda, bem como fornecer outras informações do cluster Kafka. There are also configurable notifiers that can send status out via email or HTTP calls to another service.
 
 ## Features
 * NO THRESHOLDS! Groups are evaluated over a sliding window.
