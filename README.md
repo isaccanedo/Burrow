@@ -20,7 +20,7 @@ Burrow é um companheiro de monitoramento do [Apache Kafka](http://kafka.apache.
 
 ## Começando
 ### Pré-requisitos
-Burrow is written in Go, so before you get started, you should [install and set up Go](https://golang.org/doc/install). As the dependencies
+Burrow foi escrito em Go, portanto, antes de começar, você deve [instalar e configurar o Go](https://golang.org/doc/install). As the dependencies
 are managed using Go module, the lowest version of Go supported is 1.11, though we recommend using version 1.12 for development.
 
 ### Build and Install
