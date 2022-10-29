@@ -56,7 +56,7 @@ Instale o [Docker Compose](https://docs.docker.com/compose/) e depois:
 3. Alguns tópicos de teste já foram criados por padrão e Burrow pode ser acessado em `http://localhost:8000/v3/kafka`.
 
 
-### Configuration
+### Configuração
 For information on how to write your configuration file, check out the [detailed wiki](https://github.com/linkedin/Burrow/wiki)
 
 ## License
