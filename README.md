@@ -24,7 +24,7 @@ Burrow foi escrito em Go, portanto, antes de começar, você deve [instalar e co
 
 ### Construir e instalar
 ```
-$ Clone github.com/linkedin/Burrow to a directory outside of $GOPATH. Alternatively, you can export GO111MODULE=on to enable Go module.
+$ Clone github.com/linkedin/Burrow to a directory outside of $GOPATH. Alternativamente, você pode exportar GO111MODULE=on para habilitar o módulo Go.
 $ cd to the source directory.
 $ go mod tidy
 $ go install
