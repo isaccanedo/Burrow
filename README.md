@@ -53,7 +53,7 @@ Instale o [Docker Compose](https://docs.docker.com/compose/) e depois:
    docker-compose down; docker-compose up
    ```
 
-3. Some test topics have already been created by default and Burrow can be accessed on `http://localhost:8000/v3/kafka`.
+3. Alguns tópicos de teste já foram criados por padrão e Burrow pode ser acessado em `http://localhost:8000/v3/kafka`.
 
 
 ### Configuration
