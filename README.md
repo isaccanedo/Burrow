@@ -37,7 +37,7 @@ $ $GOPATH/bin/Burrow --config-dir /path/containing/config
 
 ### Usando o Docker
 Está disponível um arquivo Docker que constrói este projeto em cima de uma imagem Alpine Linux.
-To use it, build your docker container, mount your Burrow configuration into `/etc/burrow` and run docker.
+Para usá-lo, construa seu contêiner docker, monte sua configuração do Burrow em `/etc/burrow` e execute o docker.
 
 A [Docker Compose](docker-compose.yml) is also available for quick and easy development.
 
