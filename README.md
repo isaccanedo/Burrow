@@ -43,7 +43,7 @@ Um [Docker Compose](docker-compose.yml) também está disponível para desenvolv
 
 Instale o [Docker Compose](https://docs.docker.com/compose/) e depois:
 
-1. Build the docker container:
+1. Construir o contêiner docker:
    ```
    docker-compose build
    ```
