@@ -48,7 +48,7 @@ Instale o [Docker Compose](https://docs.docker.com/compose/) e depois:
    docker-compose build
    ```
 
-2. Run the docker compose stack which includes kafka and zookeeper:
+2. Execute a pilha de composição do docker que inclui kafka e zookeeper:
    ```
    docker-compose down; docker-compose up
    ```
