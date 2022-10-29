@@ -59,7 +59,7 @@ Instale o [Docker Compose](https://docs.docker.com/compose/) e depois:
 ### Configuração
 Para obter informações sobre como escrever seu arquivo de configuração, confira o [wiki detalhado](https://github.com/linkedin/Burrow/wiki)
 
-## License
+## Licença
 Copyright 2017 LinkedIn Corp. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
 You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
 
