@@ -41,7 +41,7 @@ Para usá-lo, construa seu contêiner docker, monte sua configuração do Burrow
 
 Um [Docker Compose](docker-compose.yml) também está disponível para desenvolvimento rápido e fácil.
 
-Install [Docker Compose](https://docs.docker.com/compose/) and then:
+Instale o [Docker Compose](https://docs.docker.com/compose/) e depois:
 
 1. Build the docker container:
    ```
