@@ -35,7 +35,7 @@ $ vá instalar
 $ $GOPATH/bin/Burrow --config-dir /path/containing/config
 ```
 
-### Using Docker
+### Usando o Docker
 A Docker file is available which builds this project on top of an Alpine Linux image.
 To use it, build your docker container, mount your Burrow configuration into `/etc/burrow` and run docker.
 
