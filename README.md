@@ -30,7 +30,7 @@ $ vá mod arrumado
 $ vá instalar
 ```
 
-### Running Burrow
+### Executando o Burrow
 ```
 $ $GOPATH/bin/Burrow --config-dir /path/containing/config
 ```
