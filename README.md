@@ -4,7 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/linkedin/Burrow/badge.svg?branch=master)](https://coveralls.io/github/linkedin/Burrow?branch=master)
 [![GoDoc](https://godoc.org/github.com/linkedin/Burrow?status.svg)](https://godoc.org/github.com/linkedin/Burrow)
 
-### Burrow - Verificação de atraso do consumidor Kafka
+# Burrow - Verificação de atraso do consumidor Kafka
 
 Burrow é um companheiro de monitoramento do [Apache Kafka](http://kafka.apache.org) que fornece verificação de atraso do consumidor como um serviço sem a necessidade de especificar limites. Ele monitora as compensações comprometidas para todos os consumidores e calcula o status desses consumidores sob demanda. Um endpoint HTTP é fornecido para solicitar o status sob demanda, bem como fornecer outras informações do cluster Kafka. Há também notificadores configuráveis que podem enviar status via e-mail ou chamadas HTTP para outro serviço.
 
